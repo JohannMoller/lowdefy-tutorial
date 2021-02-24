@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lowdefy-tutorial-305811",
+  "private_key_id": "1443b8c077636b805de4c3cc48d15a85d24941f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCVWqNrKFSoTRhO\nXNYYrDXRExiIQ7jsgr51r7i3bRUvlnFJg+GHIIg4Sz5CLZZU1U/I2uXjG8IxIN/E\n37Qav5XdKiNOyg8HsaqHOh8Lg7WnDc0DKz9UnLpjcSONVo0d0S+2r9K6pY8rTSkS\nX9a5F0G55JR0435DbxRLhLLO55+PbJCcuQI73WvxzYbuw+fNcxSLC+I6u9cdSZKL\n8S4Anj/5HjqXKYv+rj0Z64BFSE8TuKObbSmRFmb4HyYXp0DBp8oT8PtLUoyaNFuH\n0TXqFuArE5clPw7AIC+vFcthp0XD+WB2U2BtgFZab30j1n92agH+BfjmOHlfQwTj\nuAxfX8kHAgMBAAECggEAAsTCwfc238wgzLfrKNRmg06JITnyDNzAVJ3lhUut6v3V\njP1Y/lwvDMjwf4oiUxddF0lsxjUDZE2X1ctdzv3dZxbqKzhWWZFmRXYJzi7Pq9c6\nXNvcI2QARQvnNIXQxAWaMFOU83nmrBJ53KuSZ0geKfmcX9lh8tY4525r9S36YCYY\nTbecWD7+gbYHMei2p/pAjiBnAbks3rIu7XXq26f65x5jq+3JtlQh6RPB3Gs9g8cg\nhoyun776q9af6sgESqOV23XW3r3XhSsUh4tAtdjg7Vb+X+5YoZcnGfYICj8rf/rX\nXXczaYA4hHL2GpgOkqqWhTeYN6Yjb20VWqeB5O4AnQKBgQDHggdhZuM+7wiY/45p\nfsqcVOWzTHHmOQHXvFweTh2ZWnxktXAMqaOqH7NikqeE8BDsxxkrBdAuZ25Hv7P8\nj8mdUTNIXqeMAE3VAVDYZxMURt9kN5DhkONx3J349dpIW+ID1YWdo3hpVTGtixzu\n83cUU4UY8wErWoI3Oe9oQhf5dQKBgQC/pQuusTGl3eWHLRYcF7CgGjiCoK61KCel\nahXmnPLd2juXL45lqRXydmvd7woqL6GBilk291vTi60y+sC3aoGL50Eeveo/QXQc\niJldkBPXn6h+o1T9Lk6LwdOGWN5+kIRSRAtVkJNXtcUzM3/2mpUeGHnt4OWdjXxh\nrF/35TStCwKBgQCmTHiidATQHKdqAPtQbGOu1AVz4zC92p7ymQugJzT88zPlLmfr\n5iuKT0pTzDLe2M0C0SLlfb7+LzD5lY4N5D0GaPz6Qgwe4tH9z074U1LQABONkdOu\ncftkmaUENMpyrkRDNeRedjiUdHMoWWEQvNhxlPzIwyYiYRtRtXUdzpn1UQKBgG9s\nrpYrQAqIMWOeuzQqMe9kT2bjtbBuYF60h3dF2Y9Ty0HjzI8e+Du4zo6C5Q4SE30V\nyzlCKImetFznnhUGP7vwANS25vNQQwo0Abd8hYzgrz6yCEAMJG7tiuaZ1QMRU13h\nYhWlsYVVkgpq7wOabQjKglnkYJxyHtdLOaEQCshxAoGASD8zSBuG7aMxP2r+Hug0\nobltSxzU9D5w/GidAHC6oHM8rd4yvVfAfKmye7izLgmQHsG8nhTwMAsik9t8G8Wa\n9VLwg6AsXFUTkb81Ag0STYXsi3KKC/hGfCLIbg6HdwI9G7iiZjV2MAkeX6WRrqPb\npQvByisqaZv7RBfBpMzhK/Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lowdefytutorial@lowdefy-tutorial-305811.iam.gserviceaccount.com",
+  "client_id": "111284620967086244393",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lowdefytutorial%40lowdefy-tutorial-305811.iam.gserviceaccount.com"
+}
